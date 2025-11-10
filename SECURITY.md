@@ -30,3 +30,4 @@ If you discover a security vulnerability, please follow the steps below to repor
 Thank you for helping us keep the Enatega Multi Vendor Food Delivery System secure.
 
 For any other security-related questions or concerns, please contact us at [sales@enatega.com](mailto:sales@enatega.com).
+
